@@ -559,7 +559,8 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #919191;
+  color : black;
+  /* color: #919191; */
   padding-right: 2rem;
 }
 /* This section was added on July 5th 2023 To be removed after entrance*/
