@@ -560,7 +560,27 @@ section {
   margin-bottom: 0;
   font-size: 14px;
   color: #919191;
+  padding-right: 2rem;
 }
+/* This section was added on July 5th 2023 To be removed after entrance*/
+.location{
+  display : flex;
+  justify-content:flex-start;
+}
+.annoucement p, h4{
+  margin : 0 auto;
+  font-size: 14px;
+  color : black;
+  text-align: left;
+  /* color: #919191; */
+}
+.school-zone{
+  font-weight: 900;
+  margin : 0 auto;
+ 
+}
+/* End here */
+
 
 /*--------------------------------------------------------------
 # About
